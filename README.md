@@ -10,7 +10,7 @@
   ## Create Django Project
     * django-admin startproject Project_Name
   ### Create App in Project Django
-    * py manage.py startapp App_name
+    * python manage.py startapp App_name
   ## Run the Django Project
     * python manage.py runserver
   
